@@ -1,6 +1,21 @@
 # Information
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi+there+👋&fontSize=50)
+##### 🌱 I’m currently learning
 
-[![IceRoad00's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceRoad00)](https://github.com/anuraghazra/github-readme-stats)
+- Al system
+***
+
+##### 💬 Ask me about
+
+- Bachelor of Software Engineering
+- Tech : Java, Spring boot, React
+
+***
+
+##### 📫 How to reach me
+
+- Email: anxis001220@gmail.com
+
+[![IceRoad00's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceRoad00&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
