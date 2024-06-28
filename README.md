@@ -7,7 +7,6 @@
 
 ##### 💬 Ask me about
 
-- Bachelor of Software Engineering
 - Tech : Java, Spring boot, React
 
 ***
