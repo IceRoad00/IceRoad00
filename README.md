@@ -14,7 +14,7 @@
 
 ##### 📫 How to reach me
 
-- Email: anxis001220@gmail.com
+- Email : anxis001220@gmail.com
 
 [![IceRoad00's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceRoad00&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
